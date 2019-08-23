@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-mcu-3115-mpl3115a2-pneumatic-pressure-altitude-intelligent-temperature-sensor-module",
+  "title": "mcu-3115-mpl3115a2-pneumatic-pressure-altitude-intelligent-temperature-sensor-module",
+  "keywords": "mcu-3115-mpl3115a2-pneumatic-pressure-altitude-intelligent-temperature-sensor-module, esp32, esp8266, arduino",
+  "description": "mcu-3115-mpl3115a2-pneumatic-pressure-altitude-intelligent-temperature-sensor-module plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-mcu-3115-mpl3115a2-pneumatic-pressure-altitude-intelligent-temperature-sensor-module/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-mcu-3115-mpl3115a2-pneumatic-pressure-altitude-intelligent-temperature-sensor-module/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
